@@ -15,7 +15,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
  
    ![](https://i.imgur.com/T735Zxj.png)
 
- - If your avatar already has an Expression Menu and Parameters set up, simply add LeftThumb and RightThumb ***(CASE SENSITIVE)*** to your avatar's parameters.
+ - If your avatar already has an Expression Menu and Parameters set up, simply add LeftThumb and RightThumb ***(CASE SENSITIVE)*** to your avatar's parameters. Nothing needs to be added to your Menu component.
  
    ![](https://i.imgur.com/ZBCk191.png)
 
