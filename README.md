@@ -38,6 +38,6 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
  - *Note that Flat O is triggered with the A button, but is set to not exit that state until your thumb is lifted from all buttons. This is to prevent accidentally brushing B from cancelling the handshape.
 
 # Credits
- - A big thank you to [BenacleJames](https://github.com/benaclejames) both for creating the mod necessary for this whole idea to work, and for his assistance in working out some kinks in the animator controller~ <3
+ - A big thank you to [BenacleJames](https://github.com/benaclejames) both for creating the mod necessary for this whole idea to work, and for his assistance in working out some kinks in the animator controller~ 💜
 
  - [HerpDerpinstine/MelonLoader](https://github.com/HerpDerpinstine/MelonLoader) for helping make mods possible in VRChat.
