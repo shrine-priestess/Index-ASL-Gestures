@@ -33,9 +33,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
    | V Hand        | A Button       | R Hand          |
    | V Hand        | B Button       | V Hand          |
    | V Hand        | Trackpad       | U Hand          |
-   | Fist          | A Button*      | Flat O Hand     |
-
- - *Note that Flat O is triggered with the A button, but is set to not exit that state until your thumb is lifted from all buttons. This is to prevent accidentally brushing B from cancelling the handshape.
+   | Fist          | B Button       | Flat O Hand     |
 
  - **Also important to note: Enabling Gesture Lock ingame will also lock your reported thumb position!
 
