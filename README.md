@@ -41,6 +41,6 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
 # Credits
  - A big thank you to [BenacleJames](https://github.com/benaclejames) both for creating the mod necessary for this whole idea to work, and for his assistance in working out some kinks in the animator controller~ 💜
  
-  - Special thanks to Aisoko and SnakeySnacks for being my test monkeys 🖤
+  - Special thanks to Aisoko and SnaekySnacks for being my test monkeys~ 🖤
 
  - [HerpDerpinstine/MelonLoader](https://github.com/HerpDerpinstine/MelonLoader) for helping make mods possible in VRChat.
