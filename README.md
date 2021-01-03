@@ -2,6 +2,8 @@
 Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCThumbParams mod by BenacleJames.
 
  - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/download/1.0/ASL.Gestures.unitypackage)
+ 
+  [Quick showcase of added hand gestures found here](https://youtu.be/7ol7d3uoIQg)
 
 # Mod Setup
  - You will need the [VRCThumbParams](https://github.com/benaclejames/VRCThumbParams) mod created by [BenacleJames](https://github.com/benaclejames). Simply drop his .dll file into your MelonLoader Mods folder.
@@ -34,7 +36,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
    | V Hand        | B Button       | V Hand          |
    | V Hand        | Trackpad       | U Hand          |
    | Fist          | B Button       | Flat O Hand     |
-   | Fist          | A Button       | S Hand          |
+   | Fist          | Trackpad       | S Hand          |
 
  - **Also important to note: Enabling Gesture Lock will disable all additional handshapes!
 
