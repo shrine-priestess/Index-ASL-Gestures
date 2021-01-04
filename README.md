@@ -1,7 +1,7 @@
 # Index-ASL-Gestures
 Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCThumbParams mod by BenacleJames.
 
- - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/download/1.0/ASL.Gestures.unitypackage)
+ - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/latest)
  
   [Quick showcase of added hand gestures found here](https://youtu.be/7ol7d3uoIQg)
 
