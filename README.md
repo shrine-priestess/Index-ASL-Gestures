@@ -1,9 +1,7 @@
 # Index-ASL-Gestures
 Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCThumbParams mod by BenacleJames.
 
- - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/download/1.4/ASL_Gestures1.4.unitypackage)
- 
-  [Quick showcase of added hand gestures found here](https://youtu.be/7ol7d3uoIQg)
+ - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/download/1.5/ASL_Gestures1.5.unitypackage)
 
 # Mod Setup
  - You will need the [VRCThumbParams](https://github.com/benaclejames/VRCThumbParams) mod created by [BenacleJames](https://github.com/benaclejames). Simply drop his .dll file into your MelonLoader Mods folder.
@@ -21,7 +19,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
  
    ![](https://i.imgur.com/ZBCk191.png)
 
- - If your avatar doesn't have an Expression Menu and Parameters set up, you can use the ones found within your ASL Gestures folder; ASL Params and Blank Menu. These options are found near the bottom of your Avatar Descriptor.
+ - If your avatar doesn't have an Expression Menu and Parameters set up, you can use the ones found within your ASL Gestures folder: ASL Params and Blank Menu. These options are found near the bottom of your Avatar Descriptor.
  
    ![](https://i.imgur.com/aOI2UuW.png)
 
@@ -38,7 +36,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
    | Fist          | B Button       | Flat O Hand     |
    | Fist          | Trackpad       | S Hand          |
 
- - **Also important to note: Enabling Gesture Lock will disable all additional handshapes!
+ - **Also important to note: Enabling Gesture Lock will mess with your ability to use these additional handshapes!
 
 # Credits
  - A big thank you to [BenacleJames](https://github.com/benaclejames) both for creating the mod necessary for this whole idea to work, and for his assistance in working out some kinks in the animator controller~ 💜
