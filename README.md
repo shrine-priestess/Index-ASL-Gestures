@@ -4,7 +4,7 @@ Additional ASL gestures for Valve Index controllers in VRChat, makes use of VRCT
  - [Download Here!](https://github.com/shrine-priestess/Index-ASL-Gestures/releases/download/1.5/ASL_Gestures1.5.unitypackage)
 
 # Mod Setup
-~~- You will need the [VRCThumbParams](https://github.com/benaclejames/VRCThumbParams) mod created by [BenacleJames](https://github.com/benaclejames). Simply drop his .dll file into your MelonLoader Mods folder. ~~
+~~- You will need the [VRCThumbParams](https://github.com/benaclejames/VRCThumbParams) mod created by [BenacleJames](https://github.com/benaclejames). Simply drop his .dll file into your MelonLoader Mods folder.~~
 
 ~~- You'll also need to install MelonLoader in order to be able to run mods, if you haven't already. MelonLoader and it's installation instructions can be found [here](https://github.com/HerpDerpinstine/MelonLoader).~~
 
